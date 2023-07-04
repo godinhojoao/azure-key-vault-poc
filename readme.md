@@ -5,8 +5,7 @@
 ## Steps to use Azure Key Vault
 
 1. `create a .env following the .env.example`
-1. Login to azure using the Azure CLI
-  - `az login`
+1. Login to azure using the Azure CLI: `az login`
 1. `npm run start`
 
 ## Node 12
