@@ -6,7 +6,7 @@
 
 1. `create a .env following the .env.example`
 1. Login to azure using the Azure CLI
-  1. `az login`
+  - `az login`
 1. `npm run start`
 
 ## Node 12
